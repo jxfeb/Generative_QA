@@ -7,7 +7,7 @@ Jun Yin, Xin Jiang, Zhengdong Lu, Lifeng Shang, Hang Li, and Xiaoming Li. [Neura
 ## Download Corpus
 Download the corpus at [http://210.6.28.98/CQA_KB_CH/] with
 ```
-user name: huawei
+username: huawei
 password: noah
 ```
 Please refer to README.txt in the folder for the explanation of the data format.
