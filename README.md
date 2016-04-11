@@ -11,3 +11,5 @@ username: huawei
 password: noah
 ```
 Please refer to README.txt in the folder for the explanation of the data format.
+
+Please note that texts in the corpus are mostly in **Chinese**. 
