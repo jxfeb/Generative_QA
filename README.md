@@ -5,7 +5,7 @@ This repository contains information about downloading the corpus for generative
 Jun Yin, Xin Jiang, Zhengdong Lu, Lifeng Shang, Hang Li, and Xiaoming Li. [Neural Generative Question Answering](http://arxiv.org/abs/1512.01337). arXiv:1512.01337, 2015.
 
 ## Download Corpus
-Download the corpus at http://210.6.28.98/CQA_KB_CH/ with
+Download the corpus at http://61.93.89.94/CQA_KB_CH/ with
 ```
 username: huawei
 password: noah
